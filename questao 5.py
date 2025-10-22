@@ -5,7 +5,7 @@ var1 = entrada_user
 var2 = entrada_pass
 
 if var1 == var2:
-    print("Usuário e senha iguais! Digite crie com informações!")
+    print("Usuário e senha iguais! Digite com com informações!")
     
 elif var1 != var2:
     print("Usuário e senha aceitos! Cadastro concluído!")
